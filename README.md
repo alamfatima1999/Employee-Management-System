@@ -10,5 +10,16 @@ We have basic routes which will help:
 
 
 # Client Side:
-We have basic Front-End using ReactS
+We have basic Front-End using ReactJs
+
+
+# Step:
+Clone Repo
+1) Navigate to client side & do npm install
+2) start client project using npm run start
+3) React js local server will be up & running at localhost:3000
+
+4) Navigate to server side
+5) Npm install dependency for Server
+6) start nodejs Server by using script: npm run start
 
